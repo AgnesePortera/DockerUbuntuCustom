@@ -1,0 +1,6 @@
+version: '3.1'  # if no version is specified then v1 is assumed. Recommend v2 minimum
+
+services: 
+  opsys:
+    image: ubuntu-git
+    build: .
