@@ -1,7 +1,7 @@
 # Ubuntu Custom Docker container
 ![DockerAutomated](https://img.shields.io/badge/Docker%20build-automated-orange)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AgnesePortera/DockerUbuntuCustom)
-![GitHub](https://img.shields.io/github/license/AgnesePortera/DockerUbuntuCustom?style=plastic)
+![GitHub](https://img.shields.io/github/license/AgnesePortera/DockerUbuntuCustom)
 
 This repository contains my custom ubuntu docker container code.
 It is linked with the Docker Hub registry with an autobuild trigger, as an example of CI/CD pipeline.
