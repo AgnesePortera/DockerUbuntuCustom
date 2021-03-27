@@ -1,6 +1,5 @@
 # Ubuntu Custom Docker container
-![DockerAutomated](https://img.shields.io/docker/automated/AgnesePortera/DockerUbuntuCustom)
-![DockerBuild](https://img.shields.io/docker/build/AgnesePortera/DockerUbuntuCustom)
+![DockerAutomated](https://img.shields.io/badge/Docker%20build-automated-orange)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AgnesePortera/DockerUbuntuCustom)
 ![GitHub](https://img.shields.io/github/license/AgnesePortera/DockerUbuntuCustom?style=plastic)
 
